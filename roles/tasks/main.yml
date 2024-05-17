@@ -1,0 +1,2 @@
+- name: Ping linux servers
+  import_tasks: linux_ping.yml
